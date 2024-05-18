@@ -7,7 +7,7 @@ def sort(nums):      #using sort the values
                 nums[j+1]=temp
 
 
-nums=[5,4,7,2,9]
+nums=[5,4,7,2,8,6]
 sort(nums)
 
 print(nums)
